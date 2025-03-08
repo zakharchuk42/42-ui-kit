@@ -1,5 +1,7 @@
+import { Switch } from './UI/Switch'
+
 function App() {
-	return <>Init project</>
+	return <Switch />
 }
 
 export default App
