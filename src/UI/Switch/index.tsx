@@ -37,7 +37,7 @@ export const Switch: FC<Props> = ({
 
 	return (
 		<SwitchWrapper_ className={className} ref={ref}>
-			{label && <div>{label}</div>}
+			{label && <span>{label}</span>}
 			<>
 				<SwitchInput_
 					disabled={disabled || loading}

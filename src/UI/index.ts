@@ -1,3 +1,4 @@
 import { Switch } from './Switch'
+import { Select } from './Select'
 
-export default { Switch }
+export default { Switch, Select }

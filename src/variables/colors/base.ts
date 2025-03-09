@@ -2,8 +2,8 @@ export const base = {
 	white: '#FFFFFF',
 	blue: {
 		1: {
-			light: '#111A2C',
-			dark: '#E6F4FF',
+			light: '#E6F4FF',
+			dark: '#111A2C',
 		},
 		2: {
 			light: '#BAE0FF',
